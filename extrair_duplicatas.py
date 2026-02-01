@@ -100,3 +100,4 @@ if __name__ == "__main__":
 
 
     gerar_csv_pasta(pasta_xml, csv_saida)
+
